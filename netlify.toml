@@ -1,0 +1,4 @@
+[build]
+  base = "research-agent/frontend"
+  command = "npm run build"
+  publish = ".next"
