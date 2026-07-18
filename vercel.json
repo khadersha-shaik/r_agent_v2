@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd research-agent/frontend && npm install && npm run build",
+  "outputDirectory": "research-agent/frontend/.next"
+}
